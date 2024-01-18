@@ -25,7 +25,7 @@ Build && run in Docker:
 docker build -t bookbot .
 ```
 ```bash
-docker
+docker run bookbot
 ```
 ## Future/Contributions
 - Add more books
